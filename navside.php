@@ -15,7 +15,7 @@
                         <div class="sb-nav-link-icon"><i class="fas fa-tachometer-alt"></i></div>
                         Announcement
                     </a>
-                    <a class="nav-link" href="#">
+                    <a class="nav-link" href="report.php">
                         <div class="sb-nav-link-icon"><i class="fas fa-tachometer-alt"></i></div>
                         Report
                     </a>
