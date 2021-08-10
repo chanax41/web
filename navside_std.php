@@ -18,9 +18,9 @@
                         Video lesson
                     </a>
 
-                    <a class="nav-link" href="#">
+                    <a class="nav-link" href="report_std.php">
                         <div class="sb-nav-link-icon"><i class="fas fa-tachometer-alt"></i></div>
-                        My lesson report (not update)
+                        My lesson report
                     </a>
 
 
